@@ -11,6 +11,7 @@
 		B1A0AF02255D8329008BDF20 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A0AF01255D8329008BDF20 /* ContentView.swift */; };
 		B1A0AF04255D8329008BDF20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1A0AF03255D8329008BDF20 /* Assets.xcassets */; };
 		B1A0AF07255D8329008BDF20 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1A0AF06255D8329008BDF20 /* Preview Assets.xcassets */; };
+		B1A0AF10255D842D008BDF20 /* ListPageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1A0AF0F255D842D008BDF20 /* ListPageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		B1A0AF03255D8329008BDF20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1A0AF06255D8329008BDF20 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B1A0AF08255D8329008BDF20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1A0AF0F255D842D008BDF20 /* ListPageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				B1A0AEFF255D8329008BDF20 /* ScreenCompositionApp.swift */,
 				B1A0AF01255D8329008BDF20 /* ContentView.swift */,
+				B1A0AF0F255D842D008BDF20 /* ListPageView.swift */,
 				B1A0AF03255D8329008BDF20 /* Assets.xcassets */,
 				B1A0AF08255D8329008BDF20 /* Info.plist */,
 				B1A0AF05255D8329008BDF20 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				B1A0AF02255D8329008BDF20 /* ContentView.swift in Sources */,
 				B1A0AF00255D8329008BDF20 /* ScreenCompositionApp.swift in Sources */,
+				B1A0AF10255D842D008BDF20 /* ListPageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
